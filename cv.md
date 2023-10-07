@@ -1,16 +1,16 @@
-# John Doe
-*123 Main Street, City, State 12345*
-*Phone: (123) 456-7890*
-*Email: johndoe@email.com*
-*LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)*
+# Miqdad Yasser Al-Fafa
+*Altyn Auyl 10, Abylaikhan St. 1/1, Kaskelen, Almaty Region, Kazakhstan*
+*Phone: +7 778 289 16-10*
+*Email: miqdadyasser@gmail.com*
+*LinkedIn: [linkedin.com/in/miqdadyasser](https://www.linkedin.com/in/miqdadyasser/)*
 
 ## Summary
-Experienced professional with a strong background in [your field] seeking opportunities to contribute skills and expertise to [your target industry/company]. Proven track record in [mention your key skills/experience] with a commitment to delivering results.
+Yasser is a passionate physics-informatics student with a strong grasp of Python, JavaScript, and English. Demonstrating his skills through projects and leadership in the student council's content creator division, he is currently building his portfolio in ML, AI, and programming. Yasser is focused on pursuing exciting projects and continuously seeks opportunities for learning and growth.
 
 ## Education
-### Bachelor of Science in [Your Major]
-**University Name** - City, State
-*Graduated: Month Year*
+### Bachelor's Degree, Physics-Informatics
+**SDU University** - Kaskelen, Almaty Region, Kazakhstan
+*Expected Graduate: May 2026*
 
 ### Master of Business Administration (MBA)
 **Business School Name** - City, State
